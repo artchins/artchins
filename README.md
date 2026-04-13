@@ -6,8 +6,8 @@
 `Python` `SQL` `Hadoop` `Hive` `Spark` `Kafka` `PostgreSQL` `Airflow`
 
 ### Currently
-- 🎓 Data Engineering program at **MIPT** (Moscow Institute of Physics and Technology)
-- 🔨 Building distributed data pipelines on Hadoop ecosystem
+- Data Engineering program at **MIPT** (Moscow Institute of Physics and Technology)
+- Building distributed data pipelines on Hadoop ecosystem
 
 ### Background
 13 years of experience working with large-scale data: HR databases (LinkedIn 1B+ profiles, HeadHunter 90M+ records), ATS/HRM automation, analytics and reporting.
