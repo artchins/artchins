@@ -20,4 +20,4 @@ I bring this domain experience to data engineering, with a focus on processing r
 
 ### Contact
 
-[Telegram — @artchins](https://t.me/artchins)
+[![Telegram](https://img.shields.io/badge/Telegram-@artchin__tg-blue)](https://t.me/artchins)
